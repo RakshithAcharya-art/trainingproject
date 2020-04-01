@@ -1,0 +1,53 @@
+//Stack(
+//children: <Widget>[
+//Container(
+//height:MediaQuery.of(context).size.height-82.0,
+//width:MediaQuery.of(context).size.width,
+//color: Colors.transparent,
+//),
+//Positioned(
+//top:75.0,
+//child:Container(
+//decoration: BoxDecoration(
+//borderRadius: BorderRadius.only(
+//topLeft: Radius.circular(45.0),
+//topRight: Radius.circular(45.0),
+//
+//),
+//color:Colors.white,
+//) ,
+//height:MediaQuery.of(context).size.height,
+//width:MediaQuery.of(context).size.width,
+//)
+//),
+//Positioned(
+//top:30.0,
+//left:(MediaQuery.of(context).size.width/2)-100,
+//child: Hero(
+//tag:widget.heroTag,
+//child:Container(
+//decoration: BoxDecoration(
+//image:DecorationImage(
+//image:AssetImage(widget.heroTag),
+//fit:BoxFit.cover
+//)
+//),
+//height: 200.0,
+//width: 200.0,
+//)
+//),
+//),
+//
+//Positioned(
+//top:30.0,
+//left:(MediaQuery.of(context).size.width/2)-100,
+//child: Hero(
+//tag:widget.foodPrice,
+//child:Text(
+//widget.foodPrice
+//),
+//),
+//),
+//
+//],
+//),

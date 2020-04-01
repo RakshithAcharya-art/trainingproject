@@ -1,0 +1,19 @@
+[
+  {
+    "time": "16.03.2020 23.00",
+    "record": "Time spent checked in place 1",
+    "coin": "+5"
+
+  },{
+  "time": "16.03.2020 23.00",
+  "record": "Time spent checked in place 2",
+  "coin": "+3"
+
+},
+  {
+    "time": "16.03.2020 23.00",
+    "record": "Time spent checked in place 3",
+    "coin": "+2"
+
+  }
+]
